@@ -1,6 +1,6 @@
 {
   "name": "observables",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Really simple observable values and computed observables",
   "keywords": [],
   "dependencies": {},
