@@ -1,5 +1,7 @@
 # observables
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/observables.svg)](https://greenkeeper.io/)
+
 Really simple observable values and computed observables
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/observables/master.svg)](https://travis-ci.org/ForbesLindesay/observables)
